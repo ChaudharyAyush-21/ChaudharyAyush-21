@@ -84,7 +84,7 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ChaudharyAyush-21&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ChaudharyAyush-21&theme=nord&column=7)
   
 </div>
 
@@ -104,7 +104,7 @@
 
 <div align="center">
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaudharyAyush-21&repo=Mern12&theme=tokyonight)](https://github.com/ChaudharyAyush-21/Mern12)
+  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaudharyAyush-21&repo=Mern12&theme=tokyonight)
 </div>
 
 ## 🎓 Education
