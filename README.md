@@ -74,7 +74,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChaudharyAyush-21&theme=tokyonight)](https://git.io/streak-stats)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChaudharyAyush-21&theme=tokyonight)
   
 </div>
 
