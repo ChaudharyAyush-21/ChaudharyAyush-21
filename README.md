@@ -104,8 +104,8 @@
 ## 🎓 Education
 
 **B Tech in Information Technology** - LDRP (4th)
-- 🏅 GPA: 8.51 (if impressive)
-- 🏆 Relevant Coursework: [Course 1], [Course 2], [Course 3]
+- 🏅 GPA: 8.51 
+
 
 
 <details>
