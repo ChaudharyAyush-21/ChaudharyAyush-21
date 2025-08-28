@@ -103,7 +103,7 @@
 
 ## 🎓 Education
 
-**B Tech in Information Technology** - LDRP (4th)
+**B Tech in Information Technology** - LDRP (6th)
 - 🏅 GPA: 8.51 
 
 
