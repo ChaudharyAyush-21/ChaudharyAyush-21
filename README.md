@@ -157,13 +157,13 @@
   
   <!-- First Row: Streak + GitHub Stats -->
   <p>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=krishprajapati15&theme=dracula&hide_border=false" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=krishprajapati15&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en" width="45.5%" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ChaudharyAyush-21&theme=dracula&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ChaudharyAyush-21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en" width="45.5%" />
   </p>
 
   <!-- Second Row: Top Languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishprajapati15&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudharyAyush-21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" width="48%" />
   </p>
 
 </div>
@@ -173,8 +173,7 @@
 
     
   </p>
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishprajapati15&theme=radical&hide_border=false" width="95%"/>
+
 
 </div>
 
