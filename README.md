@@ -17,7 +17,7 @@
 
 🤔 I'm looking for help with **Deep dive into new technologies**
 
-📫 How to reach me: **chaudhary21ayu@gmail.com**
+📫 How to reach me: **ac8826251@gmail.com**
 
 ⚡ Fun fact: ** I apply the same focus in sports and Development — aim, execute, repeat.**
 
